@@ -10,7 +10,7 @@
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youssefsoltan/zimbot-v2/edit/zim-bot-inc/README.md)
 
 ## BUILD PACKS
 
